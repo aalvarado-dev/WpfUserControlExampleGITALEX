@@ -39,5 +39,7 @@ namespace WpfUserControlExample
            
         public int MaxLength { get; set; }
 
+        public string estoEsUnaVariable {get; set;}
+
     }
 }
