@@ -35,7 +35,7 @@ namespace WpfUserControlExample
         //}
 
         private string p_title; 
-        public string titulo { get; set; }
+        public string title { get; set; }
            
         public int MaxLength { get; set; }
 
