@@ -7,17 +7,10 @@
         mc:Ignorable="d"
         Title="User Control v1.0" Height="500" Width="600">
     <Canvas>
-<<<<<<< HEAD
-        <uc:LimitedInputUserControl title="Enter name:" MaxLength="30" Height="50" 
-                                    VerticalAlignment="Top" Width="200" 
-                                    Canvas.Top="20" Canvas.Left="30"/>
-        <uc:LimitedInputUserControl title="Enter description:" MaxLength="150" Height="50" 
-=======
         <uc:LimitedInputUserControl titulo="NOM:" MaxLength="40" Height="50" 
                                     VerticalAlignment="Top" Width="200" 
                                     Canvas.Top="20" Canvas.Left="30"/>
         <uc:LimitedInputUserControl titulo="DESCRIPCIÓ:" MaxLength="250" Height="50" 
->>>>>>> 39b0c4f0c72bc67ae6d816a09457cbf7f24db68f
                                     VerticalAlignment="Top" Width="400" 
                                     Canvas.Top="80" Canvas.Left="30"/>
 
